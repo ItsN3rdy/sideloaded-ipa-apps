@@ -1,11 +1,9 @@
 {
   "name": "Joemi Repository",
   "subtitle": "Github Repository for Sideloaded IPA Apps",
-  "description": "Joemi",
   "website": "https://github.com/ItsN3rdy",
   "iconURL": "https://avatars.githubusercontent.com/u/44427435?v=4&size=64",
   "tintColor": "CC0000",
-  "news": [],
   "apps": [
     {
       "name": "Hevy",
