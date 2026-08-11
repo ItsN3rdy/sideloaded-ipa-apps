@@ -36,6 +36,21 @@
           "downloadURL": "https://file.ipaomtk.com/duolingo-language-lessons/duolingo-language-lessons-IPAOMTK.COM.ipa"
         }
       ]
+    },
+    {
+      "name": "Lightroom",
+      "bundleIdentifier": "com.adobe.Irmobilephone",
+      "developerName": "Adobe Inc.",
+      "subtitle": "Edit & Enhance Photos & Video",
+      "localizedDescription": "The Adobe Lightroom mobile app lets you edit, organize, and enhance photos on your smartphone or tablet.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/df/7f/b7df7f09-083b-de19-451b-e260dd2fb339/Placeholder.mill/200x200bb-75.webp",
+      "tintColor": "31A8FF",
+      "category": "Photo & Video",
+      "versions": [
+        {
+          "downloadURL": "https://file.ipaomtk.com/Lightroom/Lightroom_AI_Photo_Editor_IPAOMTK.com.ipa"
+        }
+      ]
     }
   ]
 }
