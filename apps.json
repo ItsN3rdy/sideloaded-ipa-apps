@@ -18,7 +18,22 @@
       "category": "Health & Fitness",
       "versions": [
         {
-          "downloadURL": "https://file.ipaomtk.com/hevy-workout-tracker/Hevy-Pro-IPAOMTK.com.ipa",
+          "downloadURL": "https://file.ipaomtk.com/hevy-workout-tracker/Hevy-Pro-IPAOMTK.com.ipa"
+        }
+      ]
+    },
+    {
+      "name": "Duolingo",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "developerName": "Duolingo",
+      "subtitle": "Languages, Math, Music & Chess",
+      "localizedDescription": "Learn a new language, chess &amp; more with the world's most downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening &amp; writing to build your vocabulary &amp; grammar skills.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/7e/6d/6a7e6dc6-ff8e-9759-6789-b03f3b86bdc4/Placeholder.mill/200x200bb-75.webp",
+      "tintColor": "58CC02",
+      "category": "Education",
+      "versions": [
+        {
+          "downloadURL": "https://file.ipaomtk.com/duolingo-language-lessons/duolingo-language-lessons-IPAOMTK.COM.ipa"
         }
       ]
     }
