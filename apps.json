@@ -1,30 +1,24 @@
 {
-  "name": "Nuvio Enhanced (Unofficial)",
-  "subtitle": "Enhanced Nuvio builds for AltStore and SideStore.",
-  "description": "Update channel for the Nuvio Enhanced variant.",
-  "website": "https://github.com/luqmanfadlli/NuvioMobile-iOS",
-  "iconURL": "https://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/cmp-rewrite/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/app-icon-1024.png",
+  "name": "Joemi Repo",
+  "subtitle": "Joemi sub",
+  "description": "Joemi des",
+  "website": "https://github.com/ItsN3rdy",
+  "iconURL": "https://www.pngitem.com/pimgs/m/261-2615612_spider-man-miles-morales-png-transparent-png.png",
   "tintColor": "7B2FF7",
   "news": [],
   "apps": [
     {
-      "name": "Nuvio Enhanced",
-      "bundleIdentifier": "com.nuvio.media",
-      "developerName": "Nuvio Unofficial",
-      "subtitle": "Watch your library, anywhere",
-      "localizedDescription": "Unofficial Enhanced build of Nuvio Mobile for iOS and iPadOS with experimental features, quality-of-life improvements, and additional fixes.",
-      "iconURL": "https://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/cmp-rewrite/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/app-icon-1024.png",
+      "name": "Hevy",
+      "bundleIdentifier": "com.hevyapp.hevy",
+      "developerName": "Hevy dev",
+      "subtitle": "Hevy sub",
+      "localizedDescription": "Hevy des",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/1e/27/f51e2738-5df0-e769-29bd-36d44e149d03/Placeholder.mill/200x200bb-75.webp",
       "tintColor": "7B2FF7",
       "category": "entertainment",
       "versions": [
         {
-          "version": "0.4.4",
-          "buildVersion": "108",
-          "date": "2026-08-10T10:53:14Z",
-          "localizedDescription": "",
           "downloadURL": "https://file.ipaomtk.com/hevy-workout-tracker/Hevy-Pro-IPAOMTK.com.ipa",
-          "size": 49330552,
-          "minOSVersion": "16.1"
         }
       ]
     }
